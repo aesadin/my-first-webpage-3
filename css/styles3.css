@@ -12,3 +12,8 @@ p{
   text-align: center;
   font-style: normal;
 }
+ul{
+  font-size: small;
+  line-height: small;
+  text-align: center;
+}
